@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Pietra-Cristina
+- 🌱 I’m currently learning SPI
